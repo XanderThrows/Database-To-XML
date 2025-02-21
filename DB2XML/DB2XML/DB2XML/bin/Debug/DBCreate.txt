@@ -1,0 +1,31 @@
+CREATE TABLE Customer (
+    CustID                 CHAR(4),  
+    FirstName              VARCHAR(50),
+    LastName               VARCHAR(50),  
+    Address                VARCHAR(50),  
+    City                   VARCHAR(50),     
+    State                  VARCHAR(2),
+    Zip                    CHAR(5), 
+    ZipExt                 CHAR(4),  
+    AreaCode               CHAR(3),   
+    Phone                  CHAR(10),   
+    CellAreaCode           CHAR(3),   
+    CellPhone              CHAR(10),   
+    EMail                  VARCHAR(50),   
+    PRIMARY KEY(CustID)
+);
+
+INSERT INTO Customer VALUES ('0001','John','Doe','123 Main','Anytown','MI','12345','1234','111','111-1111','222','222-2222','jdoe@ISP.com');
+
+.mode column
+.headers on
+
+SELECT * FROM Customer;
+
+.tables
+.schema
+
+DELETE FROM Customer WHERE CustID = '0002';
+
+.exit
+

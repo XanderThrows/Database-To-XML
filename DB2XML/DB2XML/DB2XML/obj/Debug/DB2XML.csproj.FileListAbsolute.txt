@@ -1,0 +1,8 @@
+C:\Users\zande\OneDrive\Code Projects\DB2XML\DB2XML\DB2XML\bin\Debug\DB2XML.exe.config
+C:\Users\zande\OneDrive\Code Projects\DB2XML\DB2XML\DB2XML\bin\Debug\DB2XML.exe
+C:\Users\zande\OneDrive\Code Projects\DB2XML\DB2XML\DB2XML\bin\Debug\DB2XML.pdb
+C:\Users\zande\OneDrive\Code Projects\DB2XML\DB2XML\DB2XML\obj\Debug\DB2XML.csproj.AssemblyReference.cache
+C:\Users\zande\OneDrive\Code Projects\DB2XML\DB2XML\DB2XML\obj\Debug\DB2XML.csproj.CoreCompileInputs.cache
+C:\Users\zande\OneDrive\Code Projects\DB2XML\DB2XML\DB2XML\obj\Debug\DB2XML.csproj.CopyComplete
+C:\Users\zande\OneDrive\Code Projects\DB2XML\DB2XML\DB2XML\obj\Debug\DB2XML.exe
+C:\Users\zande\OneDrive\Code Projects\DB2XML\DB2XML\DB2XML\obj\Debug\DB2XML.pdb
